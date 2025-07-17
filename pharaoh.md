@@ -3,7 +3,7 @@
 
 ## 前言
 
-![]()
+![](https://raw.githubusercontent.com/FlowerAccepted/florr-exp/refs/heads/main/%E6%88%AA%E5%B1%8F2025-07-17%2017.59.27.png)
 
 注：饿死鬼的称号来源于一个上课老吃东西的同学，数学老师兼教导主任半开玩笑半骂的说他是饿死鬼托生的，正好和普通鼻头的介绍语对上，所以用自定义翻译改成了 `Hungry Died Goast`。
 
